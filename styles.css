@@ -218,3 +218,59 @@ nav{
     text-align: center;
     padding:0px 120px;
 }
+
+
+.section4-list-p{
+    font-size:16px;
+    line-height:20px;
+    color:#001931;
+
+}
+
+.section4-list{
+    display:flex;
+    gap:6px;
+
+}
+
+.section4-list-parent{
+    display:flex;
+    flex-direction:column;
+    gap:16px;
+    justify-content: center;
+}
+
+.section4-p2{
+    font-size:16px;
+    line-height:20px;
+    color:#627382;
+    
+    margin-bottom:40px;
+}
+
+.section4-h{
+    font-size:48px;
+    color:#001931;
+    margin-bottom:16px;
+}
+
+
+.section4-p1{
+     font-size:16px;
+    line-height:20px;
+    font-weight:500;
+    color:#30B868;
+    margin-bottom:16px;
+}
+
+
+.section4-img{
+    width:600px;
+}
+
+.section4{
+    display:flex;
+    align-items: center;
+    padding:120px;
+    gap:60px;
+}
