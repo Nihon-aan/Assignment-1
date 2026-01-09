@@ -314,3 +314,49 @@ nav{
     border-radius: 12px;
 
 }
+
+
+
+footer{
+    padding:120px 120px 30px 120px;
+    background-color: #001931;
+}
+
+.footer-img{
+    width:139px;
+}
+
+.footer-p{
+    font-size:20px;
+    line-height:28ppx;
+    font-weight:500;
+    color:white;
+
+    margin-bottom:16px;
+}
+
+footer div a{
+    margin-right:16px;
+}
+
+.footer-social-container{
+    max-width: 220px;
+}
+
+.footer-container{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom:80px;
+}
+
+.copyright-section{
+    border-top:1px solid #627382;
+    padding-top:30px;
+    text-align: center;
+}
+
+.copyright-section p{
+    font-size:16px;
+    line-height: 24px;
+    color:#FAFAFA;
+}
