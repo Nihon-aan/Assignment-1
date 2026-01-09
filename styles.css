@@ -151,6 +151,7 @@ nav{
     font-weight:600;
     font-size:16px; 
     padding:11px 15px;
+    cursor:pointer;
 }
 
 .btn2:hover{
