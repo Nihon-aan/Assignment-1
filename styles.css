@@ -341,7 +341,8 @@ footer div a{
 }
 
 .footer-social-container{
-    max-width: 220px;
+    width: 220px;
+    text-align: left;
 }
 
 .footer-container{
